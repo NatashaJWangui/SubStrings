@@ -68,10 +68,10 @@ end
 
 ### Method 1: Local Ruby Installation
 1. Make sure Ruby is installed on your system
-2. Save the code in a file named `substring.rb`
+2. Save the code in a file named `substrings.rb`
 3. Run the script:
    ```bash
-   ruby substring.rb
+   ruby substrings.rb
    ```
 
 ### Method 2: Interactive Ruby (IRB)
@@ -150,5 +150,5 @@ Ideas for extending this project:
 Feel free to fork this project and submit improvements!
 
 ## License
-
+This project is for educational purposes.
 This project is for educational purposes.
